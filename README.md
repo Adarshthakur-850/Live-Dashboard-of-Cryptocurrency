@@ -148,14 +148,3 @@ GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-85
 ## 📄 License
 
 This project is open-source and available under the MIT License.
-
----
-
-If you'd like, I can now:
-
-* Create a **more advanced README** with badges, architecture diagram, and deployment section
-* Add a **Dockerfile + docker-compose setup**
-* Create a **GitHub Actions CI workflow**
-* Add a **professional project architecture diagram**
-
-Tell me which stack you used (Streamlit or Flask), and I’ll tailor it precisely.
