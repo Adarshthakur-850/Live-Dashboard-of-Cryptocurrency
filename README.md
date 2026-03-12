@@ -1,9 +1,3 @@
-Here is a professional, production-ready **README.md** tailored for your **Live Dashboard of Cryptocurrency** project.
-
-You can directly copy this into a `README.md` file.
-
----
-
 # 📊 Live Dashboard of Cryptocurrency
 
 A real-time cryptocurrency analytics dashboard that visualizes live market data, trends, and price movements using interactive charts and dynamic updates.
