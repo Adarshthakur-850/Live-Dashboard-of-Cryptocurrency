@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Live Cryptocurrency Trends Dashboard
 
 A real-time dashboard to track cryptocurrency prices, trends, and market overview using CoinGecko API.
@@ -21,3 +22,7 @@ Run the dashboard:
 ```bash
 streamlit run app.py
 ```
+=======
+# Live-Dashboard-of-Cryptocurrency
+ml project
+>>>>>>> 6db6734f85c7249f4b3d0f4ad2e6438b5b9f4e2c
